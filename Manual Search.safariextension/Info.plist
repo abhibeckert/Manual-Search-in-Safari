@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Abhi Beckert</string>
+	<key>Builder Version</key>
+	<string>9537.43.7</string>
+	<key>CFBundleDisplayName</key>
+	<string>Manual Search</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.abhibeckert.manual-search</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>Chrome</key>
+	<dict>
+		<key>Global Page</key>
+		<string>global.html</string>
+	</dict>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict/>
+	</dict>
+	<key>Description</key>
+	<string>Block searching in the unibar, unless you prefix it with the word "g".</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Level</key>
+			<string>None</string>
+		</dict>
+	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://abhibeckert.com/manualsearch/update.plist</string>
+	<key>Website</key>
+	<string>http://abhibeckert.com/manualsearch</string>
+</dict>
+</plist>
